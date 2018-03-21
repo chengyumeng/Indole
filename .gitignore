@@ -1,2 +1,3 @@
 _dev
 \.env
+__pycache__
